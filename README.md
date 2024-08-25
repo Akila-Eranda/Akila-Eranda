@@ -38,5 +38,5 @@
 
 ---
 
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/akilaeranda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/akilaeranda" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/akilaeranda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/akilaeranda" /></a></p><br><br>
 
